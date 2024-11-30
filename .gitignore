@@ -1,0 +1,9 @@
+/target
+flamegraph.svg
+simplified_flamegraph.svg
+assets/level
+bundle.zip
+secret-goblins.wasm
+web_build/*.wasm
+rustc-ice-*
+.vscode
